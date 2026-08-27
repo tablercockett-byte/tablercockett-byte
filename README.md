@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/Krit068">GitHub</a> •
   <a href="mailto:mornoxborn89@gmail.com">Email</a> •
-  <a href="https://mornoxborn89-lang.github.io">Website</a>
+  <a href="https://krit068.github.io/mornoxborn89-lang.github.io/">Website</a>
 </p>
 
 ---
@@ -32,5 +32,5 @@ My philosophy : Build. Ship. Iterate.（先让它跑起来。）
 
 ---
 
-- 🌐 访问我的 [个人网站](https://mornoxborn89-lang.github.io)
+- 🌐 访问我的 [个人网站](https://krit068.github.io/mornoxborn89-lang.github.io/)
 - ✉️ 请通过 [mornoxborn89@gmail.com](mailto:mornoxborn89@gmail.com) 联系我
