@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Krit · AI Builder</title>
+  <desc id="desc">Build. Ship. Iterate. AI applications, creative tools and narrative games.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#101d30"/><stop offset="1" stop-color="#162e3b"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#93c5cf" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="280" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="18" fill="url(#grid)"/>
+  <rect x="58" y="53" width="30" height="4" rx="2" fill="#8ce8ce"/>
+  <text x="104" y="60" fill="#8ce8ce" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="4">IDEAS INTO EXPERIENCES</text>
+  <text x="55" y="144" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" letter-spacing="-3">Krit</text>
+  <text x="217" y="141" fill="#adbfcc" font-family="Arial, Helvetica, sans-serif" font-size="35">/ AI Builder</text>
+  <text x="59" y="195" fill="#c1cdd6" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="1">Build. Ship. Iterate.</text>
+  <text x="59" y="242" fill="#78929f" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2">AI APPLICATIONS  /  CREATIVE TOOLS  /  NARRATIVE GAMES</text>
+  <g transform="translate(875 47)" fill="none" stroke-width="1.5">
+    <path d="M35 103L105 62L175 103L105 144Z M35 103V173L105 214L175 173V103 M105 144V214" stroke="#8ce8ce" opacity=".8"/>
+    <path d="M0 66L70 25L140 66L70 107Z M0 66V136L35 157 M70 107V124 M140 66V83" stroke="#789da9" opacity=".5"/>
+    <path d="M105 24L146 0L216 41L216 111L175 135" stroke="#8ce8ce" opacity=".25"/>
+    <circle cx="35" cy="103" r="5" fill="#8ce8ce" stroke="none"/>
+    <circle cx="175" cy="173" r="4" fill="#8ce8ce" stroke="none"/>
+    <circle cx="216" cy="41" r="4" fill="#789da9" stroke="none"/>
+  </g>
+</svg>
